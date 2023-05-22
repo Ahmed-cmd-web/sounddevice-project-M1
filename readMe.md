@@ -1,5 +1,5 @@
 
-## Signals project Milestone 1
+## Signals project
 
 This project is used to demonstrate different sound frequncies that can be represented.
 
