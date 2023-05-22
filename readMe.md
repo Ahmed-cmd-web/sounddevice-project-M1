@@ -11,8 +11,11 @@ In your command line type:
 
 ```
 pip3 install -r requirements.txt
-
 ```
+
+
+### Troubleshooting
+
 If you are using Linux, you might not hear a sound at first when you run sd.play(). In that case, try installing ```libportaudio2``` or ```libasound-dev```
 To do that on Ubuntu, run: 
 ```sudo apt-get install libportaudio2```
